@@ -1,0 +1,29 @@
+.corps{
+    top : 100px;
+    position: absolute;
+    top : 250px;
+}
+h1{
+    text-align : left;
+}
+.pp{
+    color : white;
+    font-size: 20px;
+}
+
+.corps2{
+    position: absolute;
+    top : 550px;
+}
+
+a{
+    color: #f7af3e;
+    text-decoration: underline;
+}
+
+
+.titre, .titre:visited{
+    color : #f7af3e;
+    text-decoration: none;
+}
+
